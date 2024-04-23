@@ -1,0 +1,12 @@
+/*Comando npm*/
+
+/*Para inicializar el proyecto (o carpeta) cómo un proyecto de node js*/
+npm init
+
+/*Para instalar express.js*/
+
+npm install express --save
+
+/*Para instalar nodemon*/
+
+npm install nodemon --save-dev
